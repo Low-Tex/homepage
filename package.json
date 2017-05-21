@@ -1,0 +1,15 @@
+{
+  "name": "homepage",
+  "version": "0.1.0",
+  "description": "Homepage for てんき いぬ",
+  "main": "src/index.js",
+  "repository": "git@github.com:Tenki-Inu/landing-page.git",
+  "author": "Byron Mejia <byron.mejia@connect.qut.edu.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "pug": "^2.0.0-rc.1",
+    "serve": "^5.1.5",
+    "static-site-generator-webpack-plugin": "^3.4.1",
+    "webpack": "^2.5.1"
+  }
+}

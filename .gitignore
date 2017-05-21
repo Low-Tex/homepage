@@ -1,0 +1,7 @@
+# Hide Node modules
+/node_modules/
+
+# Hide the build folder
+/build/*
+!/build/.keep
+
