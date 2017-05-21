@@ -1,4 +1,4 @@
-# てんき いぬ - Homepage
+# ホームページ
 
 Building a static webpage using Webpack..
 
